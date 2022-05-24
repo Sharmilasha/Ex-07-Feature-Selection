@@ -138,6 +138,6 @@ plt.title("Feature importance using Lasso Model")
 ![OUTPUT](.//3P.jpeg)
 ![OUTPUT](.//4P.jpeg)
 ![OUTPUT](.//5P.jpeg)
-![OUTPUT](.//6p.jpeg)
+![OUTPUT](.//img.jpeg)
 ## RESULT
 Various feature selection techniques have been performed on a given dataset successfully.
