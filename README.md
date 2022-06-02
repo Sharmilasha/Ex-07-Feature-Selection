@@ -121,9 +121,9 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 sn.pairplot(boston[['CRIM','RM','PTRATIO','LSTAT']])
 
 ## OUTPUT
-![OUTPUT](.//X1.png)
-![OUTPUT](.//X2.png)
-![OUTPUT](.//X3.png)
-![OUTPUT](.//X4.png)
+![OUTPUT](.//x1.png)
+![OUTPUT](.//x2.png)
+![OUTPUT](.//x3.png)
+![OUTPUT](.//x4.png)
 ## RESULT
 The various feature selection techniques on a dataset has been performed and the data has been saved to a file.
